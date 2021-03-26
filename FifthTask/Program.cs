@@ -9,10 +9,10 @@ namespace FifthTask
             Console.WriteLine("Enter first number:");
             float number1 = (float)Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Enter second number 2:");
+            Console.WriteLine("Enter second number");
             float number2 = (float)Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Enter second number 2:");
+            Console.WriteLine("Enter third number");
             float number3 = (float)Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine($"{Minimum3(number1, number2, number3)}");
