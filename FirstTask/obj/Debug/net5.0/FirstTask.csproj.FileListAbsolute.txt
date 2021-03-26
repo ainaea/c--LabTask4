@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\obj\Debug\net5.0\FirstTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\obj\Debug\net5.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\obj\Debug\net5.0\FirstTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\obj\Debug\net5.0\FirstTask.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\obj\Debug\net5.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\bin\Debug\net5.0\FirstTask.exe
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\bin\Debug\net5.0\FirstTask.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\bin\Debug\net5.0\FirstTask.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\bin\Debug\net5.0\FirstTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\bin\Debug\net5.0\FirstTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\bin\Debug\net5.0\ref\FirstTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\bin\Debug\net5.0\FirstTask.pdb
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\obj\Debug\net5.0\FirstTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\obj\Debug\net5.0\ref\FirstTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\obj\Debug\net5.0\FirstTask.pdb
+C:\CodebitsAcademy\C#  labTask\labTask4\FirstTask\obj\Debug\net5.0\FirstTask.genruntimeconfig.cache

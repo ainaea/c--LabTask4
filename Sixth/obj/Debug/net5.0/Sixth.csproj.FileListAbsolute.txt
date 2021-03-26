@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\obj\Debug\net5.0\Sixth.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\obj\Debug\net5.0\Sixth.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\obj\Debug\net5.0\Sixth.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\obj\Debug\net5.0\Sixth.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\obj\Debug\net5.0\Sixth.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\bin\Debug\net5.0\Sixth.exe
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\bin\Debug\net5.0\Sixth.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\bin\Debug\net5.0\Sixth.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\bin\Debug\net5.0\Sixth.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\bin\Debug\net5.0\Sixth.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\bin\Debug\net5.0\ref\Sixth.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\bin\Debug\net5.0\Sixth.pdb
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\obj\Debug\net5.0\Sixth.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\obj\Debug\net5.0\ref\Sixth.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\obj\Debug\net5.0\Sixth.pdb
+C:\CodebitsAcademy\C#  labTask\labTask4\Sixth\obj\Debug\net5.0\Sixth.genruntimeconfig.cache

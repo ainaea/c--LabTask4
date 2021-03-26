@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\bin\Debug\net5.0\FourthTask.exe
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\bin\Debug\net5.0\FourthTask.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\bin\Debug\net5.0\FourthTask.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\bin\Debug\net5.0\FourthTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\bin\Debug\net5.0\FourthTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\bin\Debug\net5.0\ref\FourthTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\bin\Debug\net5.0\FourthTask.pdb
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\obj\Debug\net5.0\FourthTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\obj\Debug\net5.0\FourthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\obj\Debug\net5.0\FourthTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\obj\Debug\net5.0\FourthTask.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\obj\Debug\net5.0\FourthTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\obj\Debug\net5.0\FourthTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\obj\Debug\net5.0\ref\FourthTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\obj\Debug\net5.0\FourthTask.pdb
+C:\CodebitsAcademy\C#  labTask\labTask4\FourthTask\obj\Debug\net5.0\FourthTask.genruntimeconfig.cache

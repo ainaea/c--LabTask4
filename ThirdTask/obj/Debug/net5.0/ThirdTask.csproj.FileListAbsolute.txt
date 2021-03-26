@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\obj\Debug\net5.0\ThirdTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\obj\Debug\net5.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\obj\Debug\net5.0\ThirdTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\obj\Debug\net5.0\ThirdTask.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\obj\Debug\net5.0\ThirdTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\bin\Debug\net5.0\ThirdTask.exe
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\bin\Debug\net5.0\ThirdTask.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\bin\Debug\net5.0\ThirdTask.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\bin\Debug\net5.0\ThirdTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\bin\Debug\net5.0\ThirdTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\bin\Debug\net5.0\ref\ThirdTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\bin\Debug\net5.0\ThirdTask.pdb
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\obj\Debug\net5.0\ThirdTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\obj\Debug\net5.0\ref\ThirdTask.dll
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\obj\Debug\net5.0\ThirdTask.pdb
+C:\CodebitsAcademy\C#  labTask\labTask4\ThirdTask\obj\Debug\net5.0\ThirdTask.genruntimeconfig.cache
